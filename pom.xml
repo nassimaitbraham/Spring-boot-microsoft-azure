@@ -12,5 +12,6 @@
   <modules>
   	<module>spring-boot-keyvault</module>
   	<module>Application</module>
+  	<module>Spring-boot-web-azure-ad</module>
   </modules>
 </project>
